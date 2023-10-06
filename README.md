@@ -8,7 +8,8 @@
 [Autores](#autores)  
 
 # 🚀 Projeto - Portifólio para escrita do README
-![image]()
+![imagem](img/Captura)
+
 ## 📋 Descrição
 
 ## 🔧 Funcionalidades
