@@ -16,7 +16,9 @@ Este é um projeto simples que demonstra como criar uma tela de pesquisa de CEP 
 
 ## 🔧 Funcionalidades
 **Pesquisa de CEP:** Os usuários podem digitar um CEP no campo de pesquisa e clicar em "Pesquisar" para obter o endereço correspondente.  
-**Exibição do Endereço:** Após a pesquisa bem-sucedida, o aplicativo exibe o endereço completo, incluindo logradouro, bairro, cidade e estado.  
+**Exibição do Endereço:** Após a pesquisa bem-sucedida, o aplicativo exibe o endereço completo, incluindo logradouro, bairro, cidade e estado.
+**Mostrar possiveis erros na digitação do CEP  
+
 
 ### 🛠️ Tecnologias utilizadas
 -Git  
@@ -26,6 +28,8 @@ Este é um projeto simples que demonstra como criar uma tela de pesquisa de CEP 
 -Vs Code  
 -README.md  
 ##  📚 Fontes Consultadas
-[Como escrever um README incrível](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+[Como escrever um README incrível](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
+[Via CEP](https://viacep.com.br/)    
+[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)  
 ## 🙋‍♂️ Autores
 DAVI VELLONE 
