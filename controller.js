@@ -1,4 +1,7 @@
 'use restrict'; //Modo restrito
+
+ 
+
 //Limpar formulário
 
 const limparFormulario = (endereco) =>{
@@ -12,6 +15,8 @@ const limparFormulario = (endereco) =>{
     document.getElementById('estado').value = '';
 
 }
+
+ 
 
 //Verifica se CEP é válido
 
@@ -81,4 +86,4 @@ const pesquisarCep = async() =>{
 
 // Adiciona um evento DOM, no input CEP
 
-document.getElementById('cep').addEventListener('focusout', pesquisarCep);
+document.getElementById('cep').addEventListener('focusout', pesquisarCep)
