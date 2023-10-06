@@ -7,13 +7,9 @@
 [Fontes consultadas](https://github.com/paulaboaroo0103/projeto-cadendereco#-fontes-consultafdas)    
 [Autores](https://github.com/paulaboaroo0103/projeto-cadendereco#%EF%B8%8F-autores)    
 
-<<<<<<< HEAD
-# 🚀 Projeto - Portifólio para escrita do README
-![imagem](img/Captura)
-=======
+
 # 🚀 Projeto - Consulta CEP
-![image]()
->>>>>>> 282205cac6f83b44bd14be80deb5bf30ac4d2d05
+![image](img/Captura%20de%20tela%202023-10-06%20094944.png)
 
 ## 📋 Descrição
 Este é um projeto simples que demonstra como criar uma tela de pesquisa de CEP usando HTML, CSS e JavaScript. Ao inserir um CEP válido, o código busca automaticamente o endereço completo associado a esse CEP e exibe na tela.
